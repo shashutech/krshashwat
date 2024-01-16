@@ -1,27 +1,31 @@
-# Krshashwat
+# KrShashwat
+> Full Stack Developer - Personal Portfolio
+> [krshashwat.in](https://krshashwat.in)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
+Hello there! 👋 
+I'm Kumar Shashwat, a full stack developer working towards making beautiful, easy to use and scalable web apps. With 2.5 years of hands-on experience, my expertise lies in the dynamic duo of Node.js and Angular.
 
-## Development server
+## Skills
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Frontend
+```HTML``` ```CSS``` ```SCSS``` ```Javascript``` ```Typescript``` ```Angular```
 
-## Code scaffolding
+### Backend
+```Node.JS``` ```Express```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Database
+```MySQL```
 
-## Build
+### BaaS
+```Firebase``` ```Appwrite```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### UI Design
+```Figma```
 
-## Running unit tests
+### Testing
+```Jest``` ```Cypress```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Contact
+Drop me a mail at - ```kumarshashwat62@gmail.com```
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
